@@ -1,0 +1,23 @@
+{
+  "id": "weapons/revolver",
+  "title": "Revolver",
+  "description": "Descripción",
+  "source": "@site/docs/weapons/revolver.md",
+  "sourceDirName": "weapons",
+  "slug": "/weapons/revolver",
+  "permalink": "/weapons/revolver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Mindflayer",
+    "permalink": "/enemies/mindflayer"
+  }
+}

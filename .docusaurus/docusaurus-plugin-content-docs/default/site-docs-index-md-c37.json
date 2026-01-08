@@ -1,0 +1,19 @@
+{
+  "id": "index",
+  "title": "index",
+  "description": "---",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Revolver",
+    "permalink": "/weapons/revolver"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "enemies/mindflayer",
+              "path": "/enemies/mindflayer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enemies/minos-prime",
+              "path": "/enemies/minos-prime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "versions/versions",
+              "path": "/versions/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "weapons/revolver",
+              "path": "/weapons/revolver",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

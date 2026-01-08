@@ -1,0 +1,19 @@
+{
+  "id": "versions/versions",
+  "title": "Versiones del juego",
+  "description": "Violence Update",
+  "source": "@site/docs/versions/versions.md",
+  "sourceDirName": "versions",
+  "slug": "/versions/",
+  "permalink": "/versions/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "minos-prime",
+    "permalink": "/enemies/minos-prime"
+  }
+}
