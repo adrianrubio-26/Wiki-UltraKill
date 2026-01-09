@@ -1,0 +1,23 @@
+{
+  "id": "enemies/minos-prime",
+  "title": "<h1 data-text=\"MINOS PRIME\">MINOS PRIME</h1>",
+  "description": "Tipo",
+  "source": "@site/docs/enemies/minos-prime.mdx",
+  "sourceDirName": "enemies",
+  "slug": "/enemies/minos-prime",
+  "permalink": "/enemies/minos-prime",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mindflayer",
+    "permalink": "/enemies/mindflayer"
+  },
+  "next": {
+    "title": "Versiones del juego",
+    "permalink": "/versions/"
+  }
+}
