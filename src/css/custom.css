@@ -1,9 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@400;600&display=swap');
 
+/* ======= BASE ======= */
 :root {
   --ifm-color-primary: #ff2b2b;
+  --ifm-color-primary-dark: #cc0000;
+  --ifm-background-color: #0b0b0b;
+  --ifm-navbar-background-color: #111;
+  --ifm-footer-background-color: #111;
 }
 
 html[data-theme='dark'] {
-  --ifm-background-color: #0b0b0b;
-  --ifm-navbar-background-color: #111;
+  background-color: #0b0b0b;
 }
+
+/* ======= TEXTO GENERAL ======= */
+body {
+  font-family: 'Rajdhani', sans-serif;
+  color: #e6e6e6;
+}
+
+/* ======= TITULOS ======= */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Orbitron', sans-serif;
+  color: #ff2b2b;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 0 0 6px rgba(255,0,0,0.5);
+}
+
+h1 {
+  font-size: 3rem;
+  border-bottom: 2px solid #ff2b2b;
+  padding-bottom: 8px;
+}
+
+/* ======= SIDEBAR ======= */
+.menu__link {
+  font-family: 'Orbitron', sans-serif;
+  color: #ddd;
+}
+
+.menu__link--active {
+  color: #ff2b2b;
+  text-shadow: 0 0 6px red;
+}
+
+/* ======= ADMONITIONS ======= */
+.admonition {
+  border-left: 4px solid #ff2b2b;
+  background: rgba(255, 0, 0, 0.05);
+}
+
+.admonition h5 {
+  color: #ff2b2b;
+}
+
+/* ======= IMAGENES ======= */
+img {
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(255,0,0,0.4);
+}
+
+/* ======= LINKS ======= */
+a {
+  color: #ff2b2b;
+}
+
+a:hover {
+  text-shadow: 0 0 6px red;
+}
+
+/* ======= GLITCH H1 ======= */
+h1 {
+  position: relative;
+}
+
+h1::after {
+  content: attr(data-text);
+  position: absolute;
+  left: 2px;
+  top: 0;
+  color: red;
+  opacity: 0.4;
+}
+
