@@ -4,6 +4,11 @@ const sidebars = {
     'index',
     {
       type: 'category',
+      label: 'Main Character',
+      items: ['V1/V1'],
+    },
+    {
+      type: 'category',
       label: 'Weapons',
       items: ['weapons/revolver'],
     },

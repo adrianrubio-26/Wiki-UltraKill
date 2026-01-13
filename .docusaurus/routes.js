@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '4cb'),
+    component: ComponentCreator('/', '3ef'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '79a'),
+        component: ComponentCreator('/', '4e4'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '957'),
+            component: ComponentCreator('/', '1e4'),
             routes: [
               {
                 path: '/easter-eggs/',
@@ -70,6 +70,12 @@ export default [
               {
                 path: '/enemies/thr-1000-earthmover',
                 component: ComponentCreator('/enemies/thr-1000-earthmover', '274'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/V1/',
+                component: ComponentCreator('/V1/', '8a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
