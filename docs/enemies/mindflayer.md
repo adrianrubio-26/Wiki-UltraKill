@@ -1,4 +1,3 @@
-
 # Mindflayer
 
 ## Tipo

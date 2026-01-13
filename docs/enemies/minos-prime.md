@@ -4,6 +4,7 @@
 Prime soul
 
 <img src="/img/enemies/minos-prime.png" width="150" />
+
 ## Estrategia
 Estar atento de los dialogos que hace antes de atacar ya que estos siempre vienen acompañados del mismo patron de ataque
 

@@ -1,8 +1,3 @@
-
----
-Index
----
-
 # ULTRAKILL Wiki
 
 Bienvenido a la **ULTRAKILL Wiki**, una wiki no oficial del juego de Hakita.
