@@ -12,6 +12,7 @@ const sidebars = {
       label: 'Enemies',
       items: ['enemies/mindflayer',
         'enemies/minos-prime',
+        'enemies/thr-1000-earthmover',
       ],
     },
     {

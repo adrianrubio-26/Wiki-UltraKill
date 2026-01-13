@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "enemies/thr-1000-earthmover",
+              "path": "/enemies/thr-1000-earthmover",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "index",
               "path": "/",
               "sidebar": "tutorialSidebar"

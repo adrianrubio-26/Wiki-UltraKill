@@ -42,17 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/-081": {
+  "/-51c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-2fe": {
+  "/-a2c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-311": {
+  "/-a74": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/enemies/mindflayer-878": {
@@ -62,6 +62,10 @@
   "/enemies/minos-prime-14a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---enemies-minos-prime-6-e-7-ca2"
+  },
+  "/enemies/thr-1000-earthmover-274": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---enemies-thr-1000-earthmover-247-d6b"
   },
   "/versions/-b8c": {
     "__comp": "__comp---theme-doc-item-178-a40",

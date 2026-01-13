@@ -1,0 +1,23 @@
+{
+  "id": "enemies/thr-1000-earthmover",
+  "title": "THR-1000-Earthmover",
+  "description": "Tipo",
+  "source": "@site/docs/enemies/thr-1000-earthmover.md",
+  "sourceDirName": "enemies",
+  "slug": "/enemies/thr-1000-earthmover",
+  "permalink": "/enemies/thr-1000-earthmover",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Minos Prime",
+    "permalink": "/enemies/minos-prime"
+  },
+  "next": {
+    "title": "Versiones del juego",
+    "permalink": "/versions/"
+  }
+}

@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '081'),
+    component: ComponentCreator('/', '51c'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '2fe'),
+        component: ComponentCreator('/', 'a2c'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '311'),
+            component: ComponentCreator('/', 'a74'),
             routes: [
               {
                 path: '/enemies/mindflayer',
@@ -58,6 +58,12 @@ export default [
               {
                 path: '/enemies/minos-prime',
                 component: ComponentCreator('/enemies/minos-prime', '14a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/enemies/thr-1000-earthmover',
+                component: ComponentCreator('/enemies/thr-1000-earthmover', '274'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
