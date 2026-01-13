@@ -11,6 +11,11 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "easter-eggs/index",
+              "path": "/easter-eggs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "enemies/mindflayer",
               "path": "/enemies/mindflayer",
               "sidebar": "tutorialSidebar"

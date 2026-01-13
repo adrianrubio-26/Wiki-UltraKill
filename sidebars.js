@@ -17,6 +17,11 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Easter Eggs',
+      items: ['easter-eggs/index'],
+    },
+    {
+      type: 'category',
       label: 'Game Versions',
       items: ['versions/versions'],
     },

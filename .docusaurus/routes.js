@@ -39,16 +39,22 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '51c'),
+    component: ComponentCreator('/', '4cb'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'a2c'),
+        component: ComponentCreator('/', '79a'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'a74'),
+            component: ComponentCreator('/', '957'),
             routes: [
+              {
+                path: '/easter-eggs/',
+                component: ComponentCreator('/easter-eggs/', '6c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/enemies/mindflayer',
                 component: ComponentCreator('/enemies/mindflayer', '878'),
