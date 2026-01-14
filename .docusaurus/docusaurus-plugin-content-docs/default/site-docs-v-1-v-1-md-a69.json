@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ULTRAKILL Wiki",
+    "title": "index",
     "permalink": "/"
   },
   "next": {
-    "title": "Revolver",
+    "title": "revolver",
     "permalink": "/weapons/revolver"
   }
 }

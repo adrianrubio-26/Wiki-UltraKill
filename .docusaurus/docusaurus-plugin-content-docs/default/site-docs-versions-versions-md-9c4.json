@@ -1,6 +1,6 @@
 {
   "id": "versions/versions",
-  "title": "Versiones del juego",
+  "title": "versions",
   "description": "Violence Update",
   "source": "@site/docs/versions/versions.md",
   "sourceDirName": "versions",
@@ -13,7 +13,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Easter Eggs",
+    "title": "index",
     "permalink": "/easter-eggs/"
   }
 }

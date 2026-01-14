@@ -1,4 +1,8 @@
-# ULTRAKILL Wiki
+#
+
+# <img src="/img/logo/ultrakill.png" width="250" />
+
+
 
 Bienvenido a la **ULTRAKILL Wiki**, una wiki no oficial del juego de Hakita.
 

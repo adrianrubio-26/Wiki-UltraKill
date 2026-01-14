@@ -1,6 +1,6 @@
 {
   "id": "enemies/mindflayer",
-  "title": "Mindflayer",
+  "title": "mindflayer",
   "description": "Tipo",
   "source": "@site/docs/enemies/mindflayer.md",
   "sourceDirName": "enemies",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Revolver",
+    "title": "revolver",
     "permalink": "/weapons/revolver"
   },
   "next": {
-    "title": "Minos Prime",
+    "title": "minos-prime",
     "permalink": "/enemies/minos-prime"
   }
 }

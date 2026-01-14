@@ -1,6 +1,6 @@
 {
   "id": "enemies/minos-prime",
-  "title": "Minos Prime",
+  "title": "minos-prime",
   "description": "Tipo",
   "source": "@site/docs/enemies/minos-prime.md",
   "sourceDirName": "enemies",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Mindflayer",
+    "title": "mindflayer",
     "permalink": "/enemies/mindflayer"
   },
   "next": {
-    "title": "THR-1000-Earthmover",
+    "title": "thr-1000-earthmover",
     "permalink": "/enemies/thr-1000-earthmover"
   }
 }

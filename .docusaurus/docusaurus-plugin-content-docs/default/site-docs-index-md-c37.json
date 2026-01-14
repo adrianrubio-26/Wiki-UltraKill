@@ -1,6 +1,6 @@
 {
   "id": "index",
-  "title": "ULTRAKILL Wiki",
+  "title": "index",
   "description": "Bienvenido a la ULTRAKILL Wiki, una wiki no oficial del juego de Hakita.",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",

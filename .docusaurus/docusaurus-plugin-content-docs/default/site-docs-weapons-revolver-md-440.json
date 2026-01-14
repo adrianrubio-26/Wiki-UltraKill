@@ -1,6 +1,6 @@
 {
   "id": "weapons/revolver",
-  "title": "Revolver",
+  "title": "revolver",
   "description": "Descripción",
   "source": "@site/docs/weapons/revolver.md",
   "sourceDirName": "weapons",
@@ -17,7 +17,7 @@
     "permalink": "/V1/"
   },
   "next": {
-    "title": "Mindflayer",
+    "title": "mindflayer",
     "permalink": "/enemies/mindflayer"
   }
 }

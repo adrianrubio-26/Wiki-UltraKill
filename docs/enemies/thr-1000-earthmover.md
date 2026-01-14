@@ -1,3 +1,5 @@
+[<img src="/img/logo/ultrakill.png" alt="redirigir a" class="logo-link-img" />](../index.md)
+
 # THR-1000-Earthmover
 
 ## Tipo

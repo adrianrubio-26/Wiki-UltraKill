@@ -56,9 +56,11 @@ h1 {
 }
 
 /* ======= IMAGENES ======= */
-img {
-  border-radius: 10px;
-  box-shadow: 0 0 15px rgba(255,0,0,0.4);
+.logo-link-img {
+  /* Default width; change this value to adjust the image size */
+  width: var(--logo-width, 260px);
+  height: auto;
+  display: inline-block;
 }
 
 /* ======= LINKS ======= */

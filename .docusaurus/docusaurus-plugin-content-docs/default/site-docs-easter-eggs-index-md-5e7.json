@@ -1,6 +1,6 @@
 {
   "id": "easter-eggs/index",
-  "title": "Easter Eggs",
+  "title": "index",
   "description": "Bienvenido a la sección de Easter Eggs.",
   "source": "@site/docs/easter-eggs/index.md",
   "sourceDirName": "easter-eggs",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "THR-1000-Earthmover",
+    "title": "thr-1000-earthmover",
     "permalink": "/enemies/thr-1000-earthmover"
   },
   "next": {
-    "title": "Versiones del juego",
+    "title": "versions",
     "permalink": "/versions/"
   }
 }

@@ -1,6 +1,6 @@
 {
   "id": "enemies/thr-1000-earthmover",
-  "title": "THR-1000-Earthmover",
+  "title": "thr-1000-earthmover",
   "description": "Tipo",
   "source": "@site/docs/enemies/thr-1000-earthmover.md",
   "sourceDirName": "enemies",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Minos Prime",
+    "title": "minos-prime",
     "permalink": "/enemies/minos-prime"
   },
   "next": {
-    "title": "Easter Eggs",
+    "title": "index",
     "permalink": "/easter-eggs/"
   }
 }
