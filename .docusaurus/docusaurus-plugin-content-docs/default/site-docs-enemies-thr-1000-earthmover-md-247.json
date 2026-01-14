@@ -1,7 +1,7 @@
 {
   "id": "enemies/thr-1000-earthmover",
   "title": "thr-1000-earthmover",
-  "description": "Tipo",
+  "description": "El Earthmover es una colosal máquina de guerra autónoma, creada para destruir civilizaciones enteras. No es solo un enemigo, sino un entorno viviente: el jugador combate dentro y sobre su estructura. Está cubierto de armas, sistemas defensivos y mecanismos internos que funcionan como una fortaleza mecánica. Representa la culminación de la tecnología sin moral, una máquina que continúa destruyendo incluso cuando ya no queda nadie a quien conquistar.",
   "source": "@site/docs/enemies/thr-1000-earthmover.md",
   "sourceDirName": "enemies",
   "slug": "/enemies/thr-1000-earthmover",

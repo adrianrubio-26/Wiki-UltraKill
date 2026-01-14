@@ -1,6 +1,6 @@
 #
 
-# <img src="/img/logo/ultrakill.png" width="250" />
+# <img src="/img/logo/ultrakill.png" width="500" />
 
 
 

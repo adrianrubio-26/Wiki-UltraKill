@@ -1,6 +1,7 @@
 [<img src="/img/logo/ultrakill.png" alt="redirigir a" class="logo-link-img" />](../index.md)
 
 # Mindflayer
+El **Mindflayer** es un demonio de aspecto elegante y femenino que ataca usando poderes psíquicos, explosiones de energía y teletransportes constantes. Es extremadamente difícil de predecir, obligando al jugador a mantener presión constante. Su diseño contrasta belleza y horror, reforzando la idea de que en **ULTRAKILL** incluso lo refinado puede ser letal. Además, su comportamiento sugiere una inteligencia consciente, no solo instinto violento.
 
 ## Tipo
 Enemigo élite

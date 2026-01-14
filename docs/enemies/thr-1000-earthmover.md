@@ -1,6 +1,7 @@
 [<img src="/img/logo/ultrakill.png" alt="redirigir a" class="logo-link-img" />](../index.md)
 
 # THR-1000-Earthmover
+El **Earthmover** es una colosal máquina de guerra autónoma, creada para destruir civilizaciones enteras. No es solo un enemigo, sino un entorno viviente: el jugador combate dentro y sobre su estructura. Está cubierto de armas, sistemas defensivos y mecanismos internos que funcionan como una fortaleza mecánica. Representa la culminación de la tecnología sin moral, una máquina que continúa destruyendo incluso cuando ya no queda nadie a quien conquistar.
 
 ## Tipo
 Maquina Suprema
