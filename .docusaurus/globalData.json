@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "enemies/sisyphus-prime",
+              "path": "/enemies/sisyphus-prime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "enemies/something-wicked",
               "path": "/enemies/something-wicked",
               "sidebar": "tutorialSidebar"

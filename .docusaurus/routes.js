@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '351'),
+    component: ComponentCreator('/', '309'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'afb'),
+        component: ComponentCreator('/', 'a78'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'aa6'),
+            component: ComponentCreator('/', 'f96'),
             routes: [
               {
                 path: '/easter-eggs/Secret-levels',
@@ -64,6 +64,12 @@ export default [
               {
                 path: '/enemies/minos-prime',
                 component: ComponentCreator('/enemies/minos-prime', '14a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/enemies/sisyphus-prime',
+                component: ComponentCreator('/enemies/sisyphus-prime', '12e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

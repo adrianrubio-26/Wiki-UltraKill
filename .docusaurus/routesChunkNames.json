@@ -42,17 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/-351": {
+  "/-309": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-afb": {
+  "/-a78": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-aa6": {
+  "/-f96": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/easter-eggs/Secret-levels-807": {
@@ -66,6 +66,10 @@
   "/enemies/minos-prime-14a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---enemies-minos-prime-6-e-7-ca2"
+  },
+  "/enemies/sisyphus-prime-12e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---enemies-sisyphus-primea-94-36f"
   },
   "/enemies/something-wicked-43d": {
     "__comp": "__comp---theme-doc-item-178-a40",
