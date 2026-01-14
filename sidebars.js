@@ -23,7 +23,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Easter Eggs',
-      items: ['easter-eggs/index'],
+      items: ['easter-eggs/Secret-levels'],
     },
     {
       type: 'category',

@@ -39,19 +39,19 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '3ef'),
+    component: ComponentCreator('/', 'b23'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '4e4'),
+        component: ComponentCreator('/', '4cf'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '1e4'),
+            component: ComponentCreator('/', '6ef'),
             routes: [
               {
-                path: '/easter-eggs/',
-                component: ComponentCreator('/easter-eggs/', '6c0'),
+                path: '/easter-eggs/Secret-levels',
+                component: ComponentCreator('/easter-eggs/Secret-levels', '807'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

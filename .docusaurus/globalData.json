@@ -11,8 +11,8 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "easter-eggs/index",
-              "path": "/easter-eggs/",
+              "id": "easter-eggs/Secret-levels",
+              "path": "/easter-eggs/Secret-levels",
               "sidebar": "tutorialSidebar"
             },
             {
