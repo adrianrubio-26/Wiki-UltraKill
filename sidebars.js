@@ -18,6 +18,7 @@ const sidebars = {
       items: ['enemies/mindflayer',
         'enemies/minos-prime',
         'enemies/thr-1000-earthmover',
+        'enemies/something-wicked',
       ],
     },
     {

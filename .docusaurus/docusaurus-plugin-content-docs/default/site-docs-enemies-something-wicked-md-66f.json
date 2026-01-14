@@ -1,0 +1,23 @@
+{
+  "id": "enemies/something-wicked",
+  "title": "Something Wicked",
+  "description": "Something Wicked es una entidad enemiga única de ULTRAKILL, conocida por ser más una amenaza psicológica que un combate tradicional.",
+  "source": "@site/docs/enemies/something-wicked.md",
+  "sourceDirName": "enemies",
+  "slug": "/enemies/something-wicked",
+  "permalink": "/enemies/something-wicked",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "thr-1000-earthmover",
+    "permalink": "/enemies/thr-1000-earthmover"
+  },
+  "next": {
+    "title": "Secret-levels",
+    "permalink": "/easter-eggs/Secret-levels"
+  }
+}
