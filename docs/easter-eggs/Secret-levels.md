@@ -26,3 +26,16 @@ El acto 2 cuenta con un total de 4 niveles secretos estos estando 1 por cada cap
 
 ## 4-2: Clash Of The Brandicoot
 Ubicado en 4-2: F#ck the Sun, aquí entras a través de una mecánica especial de eliminar cajas y manipular el entorno. Suele tener una estética o mecánica única distinta de las fases principales. Este nivel es un claro homenaje y referencia a la **franquicia de Crash Bandicoot**.
+
+## 5-S: I Only Say Morning 
+Accesible desde 5-1: In the Wake of Poseidon después de resolver un puzzle ambiental (como drenar agua o tocar campanas), este nivel también rompe con la progresión normal y presenta una experiencia fuera de los niveles típicos.
+
+## P-2: Wait Of The World
+Al igual que el **Prime Sanctum 1** Este es accecible a traves de una puerta gigante escondida en el nivel 6-2 **Aesthetics Of Hate** con el requisito de completar todos los niveles del **Acto 2** con la calificacion P.
+
+A diferencia del **Prime Sanctum 1** aqui no solo luchas contra el jefe si no que vas avanzado por salas luchando con todos los enemigos vistos al momento.
+
+# Acto 3
+
+## 7-S: Hell Bath No Fury
+En 7-3: No Sound, No Memory, es el nivel secreto actual para la capa 7. Para acceder necesitas manipular enemigos (como los Street Cleaners) para abrir una puerta secreta; su diseño es bastante distinto y normalmente más desafiante.
