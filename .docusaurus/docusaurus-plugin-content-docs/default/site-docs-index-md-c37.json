@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "index",
-  "description": "Bienvenido a la ULTRAKILL Wiki, una wiki no oficial del juego de Hakita.",
+  "description": "ULTRAKILL es un videojuego de disparos en primera persona (FPS) de ritmo extremadamente rápido, desarrollado por Arsi “Hakita” Patala y publicado por New Blood Interactive. Inspirado en los shooters clásicos como Doom, Quake y Devil May Cry, el juego combina combate frenético, movimiento avanzado y un sistema de puntuación basado en el estilo del jugador.",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
