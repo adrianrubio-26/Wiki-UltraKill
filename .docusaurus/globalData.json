@@ -11,6 +11,11 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "easter-eggs/Bromas",
+              "path": "/easter-eggs/Bromas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "easter-eggs/Secret-levels",
               "path": "/easter-eggs/Secret-levels",
               "sidebar": "tutorialSidebar"

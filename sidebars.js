@@ -28,7 +28,9 @@ const sidebars = {
     {
       type: 'category',
       label: 'Easter Eggs',
-      items: ['easter-eggs/Secret-levels'],
+      items: ['easter-eggs/Secret-levels',
+        'easter-eggs/Bromas',
+      ],
     },
     {
       type: 'category',
