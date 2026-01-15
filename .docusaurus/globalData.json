@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "enemies/Gabriel",
+              "path": "/enemies/Gabriel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "enemies/mindflayer",
               "path": "/enemies/mindflayer",
               "sidebar": "tutorialSidebar"

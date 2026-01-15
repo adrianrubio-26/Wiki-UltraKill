@@ -19,7 +19,8 @@ const sidebars = {
         'enemies/minos-prime',
         'enemies/thr-1000-earthmover',
         'enemies/something-wicked',
-        'enemies/sisyphus-prime'
+        'enemies/sisyphus-prime',
+        'enemies/Gabriel'
       ],
     },
     {

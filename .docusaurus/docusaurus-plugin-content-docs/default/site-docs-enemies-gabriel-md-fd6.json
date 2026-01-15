@@ -1,0 +1,23 @@
+{
+  "id": "enemies/Gabriel",
+  "title": "Gabriel Judge Of Hell",
+  "description": "Gabriel, Judge of Hell es uno de los antagonistas principales y jefes más icónicos del videojuego ULTRAKILL. Es un ángel guerrero al servicio del Cielo, enviado al Infierno para imponer el orden y castigar a las entidades que desafían la autoridad divina. A diferencia de otros ángeles, Gabriel posee una personalidad orgullosa, temperamental y profundamente obsesionada con el honor y la superioridad celestial.",
+  "source": "@site/docs/enemies/Gabriel.md",
+  "sourceDirName": "enemies",
+  "slug": "/enemies/Gabriel",
+  "permalink": "/enemies/Gabriel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sisyphus Prime",
+    "permalink": "/enemies/sisyphus-prime"
+  },
+  "next": {
+    "title": "Secret-levels",
+    "permalink": "/easter-eggs/Secret-levels"
+  }
+}

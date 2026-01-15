@@ -39,19 +39,25 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '309'),
+    component: ComponentCreator('/', 'ba7'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'a78'),
+        component: ComponentCreator('/', '9ef'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'f96'),
+            component: ComponentCreator('/', 'eb3'),
             routes: [
               {
                 path: '/easter-eggs/Secret-levels',
                 component: ComponentCreator('/easter-eggs/Secret-levels', '807'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/enemies/Gabriel',
+                component: ComponentCreator('/enemies/Gabriel', 'cf8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
