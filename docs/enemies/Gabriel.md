@@ -10,5 +10,3 @@ Gabriel, Judge of Hell es uno de los antagonistas principales y jefes más icón
 De su espalda surgen alas formadas por energía luminosa, que refuerzan su naturaleza divina. Empuña dos espadas de luz sagrada, y cada uno de sus movimientos es elegante, rápido y letal, proyectando la imagen de un ángel guerrero implacable.
 
 ![Gabriel](/img/enemies/Gabriel.png)
-
-# HOLA

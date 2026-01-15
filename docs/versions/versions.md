@@ -21,4 +21,5 @@
 - mejora de texturas
 - rework a la pelea contra el leviatan
 
+# <img src="/img/Versiones/Revamp-update.png" width="500" />
 
