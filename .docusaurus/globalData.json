@@ -61,6 +61,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "weapons/Arms",
+              "path": "/weapons/Arms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "weapons/revolver",
               "path": "/weapons/revolver",
               "sidebar": "tutorialSidebar"

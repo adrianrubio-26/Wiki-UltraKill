@@ -10,7 +10,9 @@ const sidebars = {
     {
       type: 'category',
       label: 'Weapons',
-      items: ['weapons/revolver'],
+      items: ['weapons/revolver',
+        'weapons/Arms',
+      ],
     },
     {
       type: 'category',

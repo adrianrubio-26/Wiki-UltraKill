@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'ba7'),
+    component: ComponentCreator('/', '83a'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '9ef'),
+        component: ComponentCreator('/', '43a'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'eb3'),
+            component: ComponentCreator('/', '77d'),
             routes: [
               {
                 path: '/easter-eggs/Secret-levels',
@@ -100,6 +100,12 @@ export default [
               {
                 path: '/versions/',
                 component: ComponentCreator('/versions/', 'b8c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/weapons/Arms',
+                component: ComponentCreator('/weapons/Arms', 'c20'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
