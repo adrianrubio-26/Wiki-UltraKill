@@ -3,8 +3,6 @@
 # <img src="/img/logo/ultrakill.png" width="500" />
 
 
-Bienvenido a la **ULTRAKILL Wiki**, una wiki no oficial del juego de Hakita.
-
 **ULTRAKILL** es un videojuego de disparos en primera persona (FPS) de ritmo extremadamente rápido, desarrollado por **Arsi “Hakita” Patala** y publicado por **New Blood Interactive**. Inspirado en los shooters clásicos como *Doom*, *Quake* y *Devil May Cry*, el juego combina combate frenético, movimiento avanzado y un sistema de puntuación basado en el estilo del jugador.
 
 El jugador controla a **V1**, un androide de combate que se alimenta de sangre, en un mundo postapocalíptico donde la humanidad ha desaparecido. V1 desciende a través de los distintos círculos del Infierno, enfrentándose a demonios, máquinas y entidades sobrenaturales, con el objetivo de obtener más sangre para sobrevivir.
@@ -21,3 +19,9 @@ El apartado visual utiliza gráficos de estilo retro con efectos modernos, mient
 - 🥚 [Easter Eggs](easter-eggs/Secret-levels.md)
 
 > **Mankind is Dead. Blood is Fuel. Hell is Full.**
+
+
+# Dios:
+
+# <img src="/img/Hakita/hakita.png" width="500" />
+
